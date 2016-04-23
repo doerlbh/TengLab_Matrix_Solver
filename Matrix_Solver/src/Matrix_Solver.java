@@ -1,3 +1,6 @@
+// Baihan Lin, Teng Lab
+// Aug 2014
+
 import java.io.*;     // for File, FileNotFoundException
 import java.util.*;   // for Scanner, List, Set, Collections
 
